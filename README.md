@@ -1,5 +1,4 @@
 # springcloud-rocketmq-transaction
-springcloud+feign+eureka+config+rocketmq for distributed transaction
+distributed trasaction using springcloud Eureka + Feign + config+ rocketmq 
 
-blog:
-https://www.cnblogs.com/huangqingshi/p/15456085.html
+ myblog: https://www.cnblogs.com/huangqingshi/p/15456085.html
